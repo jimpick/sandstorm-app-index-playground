@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Jim Pick (@jimpick)",
-  "license": "MIT/Apache-2 (Permissive License Stack)"
+  "license": "MIT/Apache-2 (Permissive License Stack)",
+  "dependencies": {
+    "fastify": "^3.14.0",
+    "fastify-http-proxy": "^5.0.0"
+  }
 }
